@@ -1,0 +1,274 @@
+5/16/20, 14:36 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+5/16/20, 14:28 - +91 97914 49719 created group "Power BI Developers"
+5/16/20, 14:36 - +91 97914 49719 added you
+5/16/20, 14:36 - +91 97914 49719 added +353 89 227 9554
+5/16/20, 14:38 - +91 97914 49719 added +91 99521 15218
+5/16/20, 14:39 - +91 97914 49719 added +91 97919 02833
+5/16/20, 14:41 - +971 52 766 2655: Thanks for adding me the group @919791449719.  Awesome initiative 👏👏😊
+5/16/20, 14:41 - +91 97914 49719: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/EnAr1jAXOemL3Zx63vrVyJ
+5/16/20, 14:42 - +91 97914 49719: You are welcome👍🏻
+5/16/20, 14:43 - +91 97914 49719: If you want to add any of your friends kindly use the whatsapp group link.
+5/16/20, 14:43 - +971 52 766 2655: Surely
+5/16/20, 14:43 - +91 97914 49719: You are welcome bro👍🏻
+5/16/20, 14:44 - +91 88852 33238: Lets make this first ever great platform to collaborate and share Power BI knowledge 🙂☺️
+5/16/20, 14:49 - +971 52 600 8376: Thanks Gowri😊
+5/16/20, 14:52 - +91 97914 49719: 🙏🏻🙏🏻
+5/16/20, 15:18 - +971 50 846 8150 joined using this group's invite link
+5/16/20, 15:19 - +971 50 846 8150: Hi I had a doubt.Can we create something like a dynamic button power Navigation
+5/16/20, 15:20 - +971 50 846 8150: Based on a value can we we navigate the button to a particular page
+5/16/20, 15:20 - +91 73563 45250 joined using this group's invite link
+5/16/20, 15:24 - +971 58 934 3197 joined using this group's invite link
+5/16/20, 15:36 - +91 99582 58217 joined using this group's invite link
+5/16/20, 15:39 - +971 52 647 8609: Hi Thanks Gowri for connecting with all PBI experts.
+5/16/20, 15:46 - +971 52 647 8609: Hi All, Incremental Refresh Power BI , Any 1 accomplished the newly released feature in power bi pro account since Feb.
+5/16/20, 15:47 - +971 52 647 8609: I have test env. at home , sql server data source,  supports native query.refresh only last day data and storing 10 years data.
+5/16/20, 15:48 - +971 52 647 8609: But refresh times are same when I schedule a refresh 12  minutes NO CHANGE IN POWER BI SERVICE
+5/16/20, 15:48 - +91 73563 45250: i am planning to implement in the existing datasets....does it requires query parameters defined at power query level?
+5/16/20, 15:50 - +971 52 647 8609: Yes RangeStart RangeEnd two reserved case sensitive parameters are required to configure incremental refresh policy
+5/16/20, 15:50 - +91 73563 45250: ok....
+5/16/20, 15:50 - +91 97914 49719: https://community.powerbi.com/t5/Desktop/Navigating-to-a-particular-page-based-on-drop-down-filter/td-p/740962
+5/16/20, 15:54 - +971 50 846 8150: this is possible on embedded version only .is there an option for pro version
+5/16/20, 15:58 - +971 52 766 2655: Using bookmarks its possible
+5/16/20, 15:59 - +971 50 846 8150: I shall tell you the requirement
+5/16/20, 15:59 - +971 50 846 8150: it is like I have 4 department
+5/16/20, 15:59 - +971 50 846 8150: and on clicking it should go to that report for the particular department page report
+5/16/20, 15:59 - +971 50 846 8150: and the reason for it is like access level
+5/16/20, 16:00 - +971 50 846 8150: for eg one employee has full access
+5/16/20, 16:00 - +971 50 846 8150: other has only dept wise access
+5/16/20, 16:00 - +971 52 766 2655: This one you talking about managing roles
+5/16/20, 16:00 - +971 50 846 8150: RLS can be used only used when in that reporting of particular page
+5/16/20, 16:00 - +971 52 766 2655: Yes
+5/16/20, 16:01 - +971 50 846 8150: But main page has no data .Just navigating using button
+5/16/20, 16:01 - +971 50 846 8150: to the respective dept wise reporting
+5/16/20, 16:01 - +971 50 846 8150: so main page is accessible for everyone
+5/16/20, 16:17 - +971 52 647 8609: If at main page ppl have only access to their link or page, then they dont need to see these other options.
+5/16/20, 16:18 - +971 50 846 8150: yes
+5/16/20, 16:19 - +971 50 846 8150: so thought of creating a button that only shows the particular dept
+5/16/20, 16:19 - +971 50 846 8150: and then navigating to the dept report based on the button value
+5/16/20, 16:22 - +971 52 647 8609: You can create a 3 different power bi reports, filter the dept wise data in power query itself (no need loading everything for 1 dept)and can also  hide the table query filtered in report view.
+5/16/20, 16:22 - +971 50 846 8150: yea I had that in mind
+5/16/20, 16:22 - +971 50 846 8150: but management doesn't want it
+5/16/20, 16:22 - +971 50 846 8150: requirement is all in s single report
+5/16/20, 16:23 - +971 50 846 8150: and restrict access
+5/16/20, 16:23 - +971 50 846 8150: so plan B else is main page accessible for everyone
+5/16/20, 16:23 - +971 50 846 8150: put n no of button based on no of dept
+5/16/20, 16:23 - +971 50 846 8150: and when a person from particular dep accesses rest other button shows no data based on RLS
+5/16/20, 16:23 - +971 50 846 8150: but it doesnt give neat look
+5/16/20, 16:24 - +971 50 846 8150: so was wondering if this option is available
+5/16/20, 17:49 - +91 99582 58217: This is the best option otherwise whoever will have the report access can select your bookmark and would be able to see other departments data.. Rls is the only option else 3 different reports
+5/16/20, 19:29 - +91 97914 49719: <Media omitted>
+5/16/20, 21:53 - +91 99582 58217: Hi all i need a bit of advice around my model. 
+I have mom 2 different data table and I want to have relationship between them. Though if create a relationship it would be many to many between the "ids" But when I'm creating a measure I'm not getting desired results.. 
+I can share the pbix if anyone can share their email.. 
+Thanks
+5/16/20, 21:59 - +91 88852 33238: Why dont you merge both tables in power query?
+5/16/20, 22:06 - +91 99582 58217: Merging is an option but as I'm focusing to learn new scenarios in dax so want to achieve it that way by creating relationship
+5/16/20, 22:13 - +91 99582 58217: And secondly merging would not give me data mom basis it would be merging by id and would be sharing the latest values.. Whereas I want to see current month status as well and last 6 months status as well..
+5/16/20, 22:20 - +91 72085 02608: Maybe creating a distinct of the ID table to act as a link table.. and then creating a relationship..
+5/16/20, 22:21 - +91 81477 14720: Yea
+5/16/20, 22:21 - +91 81477 14720: Create a bridge table
+5/16/20, 22:21 - +91 81477 14720: If you create many to many relationship
+5/16/20, 22:22 - +91 81477 14720: Sometimes u get undesirable results
+5/16/20, 22:26 - +971 50 846 8150: yes they say many to many is not a good choice to make even in dax.it can get messy
+5/16/20, 22:36 - +91 99582 58217: Tried that as well still there is something missing I believe.. I'll check it again
+5/17/20, 13:21 - +91 97914 49719 added +91 98415 20234
+5/17/20, 13:21 - +91 98415 20234: Thank u gowri
+5/17/20, 13:21 - +91 98415 20234: Does anyone scheduled power BI data refresh using power shell?
+5/17/20, 13:21 - +91 98415 20234: I need one urgent help
+5/17/20, 18:28 - +971 52 647 8609: Hi, What can be a posdible solution to get sql data in viewable form  and send emails to 100 different customers automatically after generating invoice in the form? Any ideas 😊
+5/17/20, 18:29 - +971 50 846 8150: is it possible through power apps
+5/17/20, 18:29 - +971 50 846 8150: where you get the data into a data table
+5/17/20, 18:30 - +971 52 647 8609: Sql server
+5/17/20, 18:31 - +971 52 647 8609: I know power apps is very good choice
+5/17/20, 18:31 - +971 52 647 8609: N only I know also ...just trying to explore other options if any as well
+5/17/20, 18:34 - +91 88852 33238: Go for pagonated reports with email subscriptions
+5/17/20, 18:44 - +971 50 846 8150: yea paginated report next option
+5/17/20, 19:13 - +971 52 647 8609: What is paginated reports?
+5/17/20, 19:13 - +971 52 647 8609: How to get more info abt it
+5/17/20, 19:13 - +91 88852 33238: It is just an traditional ssrs report
+5/17/20, 19:14 - +971 52 647 8609: Ok in visual studio
+5/17/20, 19:14 - +971 52 647 8609: ?
+5/17/20, 19:15 - +91 97914 49719: You can create reports in ssrs and deploy it in power bi report server
+5/17/20, 19:16 - +971 52 647 8609: They can be available in power bi service also ?
+5/17/20, 19:31 - +91 88852 33238: No u can see them in power bi report server/on premises 
+
+It is best for it for form/ invoice kind of reports
+5/17/20, 19:34 - +971 52 647 8609: Visual studio online  I can use ? To create repory
+5/17/20, 19:35 - +91 88852 33238: No u can download report builder from power bi report server or else if you have BIDS in visual studio in local, u can do that.
+5/17/20, 19:37 - +971 52 647 8609: <Media omitted>
+5/17/20, 19:37 - +971 52 647 8609: PRB from app right?
+5/17/20, 20:14 - +971 52 647 8609: Thank you very much I have stared this way PRB from app seems straightforward
+5/17/20, 20:55 - +91 73563 45250: hi , i have multiple slicers in a power bi report (came from differnt tables). need to make one slicer values change depends on another slicer ( like cascading parameters in ssrs). what modelling change we can do to achieve this?
+5/17/20, 20:55 - +91 73563 45250: i have tried edit interactions...but doesn't seems to be working
+5/17/20, 21:23 - +91 99582 58217's security code changed. Tap for more info.
+5/17/20, 21:32 - +91 72085 02608: Did you try using isfiltered and selected value?? Using if condition maybe you can get it change values in the other slicer..
+5/17/20, 21:57 - +91 73563 45250: thanks will try...
+5/17/20, 22:03 - +91 73563 45250: how to configure a measure value based on the filter chosen by the user .  dashboard currently i am working has opening base and closing base measures.  opening base should be show value only for the minimum date range chosen by the user in the date slicer. & closing base should be show value only for the minimum date range chosen by the user in the date slicer.   for e.g : if the user choses between may 1 and may 17.  opening base will show value only for may1st & closing base show value only for may 17th...
+5/17/20, 22:03 - +91 73563 45250: i tried creating below measures...
+5/17/20, 22:03 - +91 73563 45250: EnDdate = CALCULATE(max('DATE'[DATE]),ALLSELECTED('DATE'[DATE])) 
+StartDate = CALCULATE(min('DATE'[DATE]),ALLSELECTED('DATE'[DATE])) 
+
+
+openingbase = CALCULATE(sum(MEASUREMENTS[OPENING_BASE]),FILTER('DATE','DATE'[DATE]=[StartDate]))
+5/17/20, 22:04 - +91 73563 45250: but its not working...
+5/17/20, 23:05 - +91 95032 54164 joined using this group's invite link
+5/17/20, 23:22 - +91 88852 33238: I guess for this you should use selected value measure based on slicer change
+5/18/20, 06:54 - +971 52 647 8609: Hi, report builder from app service is generally available with email subscription facility? Let me know please thanks
+5/18/20, 10:32 - +91 99582 58217's security code changed. Tap for more info.
+5/18/20, 11:25 - +91 73563 45250: yes i tried....but its not working
+5/18/20, 11:25 - +91 73563 45250: https://www.tableau.com/learn/training/elearning   tableau 90 days free training
+5/18/20, 11:53 - +91 81477 14720: <Media omitted>
+5/18/20, 11:56 - +91 72085 02608: Haven't used any.. Organizations don't allow use of third party visuals..
+5/18/20, 11:57 - +91 81477 14720: There are visuals certified by Microsoft
+5/18/20, 11:57 - +91 72085 02608: Yes..
+5/18/20, 12:30 - +91 99582 58217: Mostly.. Whichever visual has blue tick against it.. 
+Best slicers is in built but you can look at play axis that's my favorite but it would look good in desktop file only not apt for mail subscription...or just search filter in app source and you can find few more options as well
+5/18/20, 12:30 - +91 81477 14720: Play axis?
+5/18/20, 12:32 - +91 99582 58217: Yes it would give you a play button and would be like a gif and your data would be  changing automatically  basis on your model
+5/18/20, 12:33 - +91 81477 14720: Where is it
+5/18/20, 12:35 - +91 99582 58217: Search it in app source
+5/18/20, 12:36 - +91 81477 14720: Ok
+5/18/20, 12:43 - +91 81477 14720: Will it keep filtering automatically?
+5/18/20, 15:56 - +91 99582 58217's security code changed. Tap for more info.
+5/18/20, 16:28 - +971 52 647 8609: Try smart pro license dynamic filter, very good even when u want to make sense of your data
+5/18/20, 20:33 - +971 52 647 8609: Hi , Paginated report builder reports can only be deployed in premium app workspace? email subscription? Give me more details please?
+5/18/20, 20:49 - +91 99582 58217: Hi Please go through this for better clarity.
+5/18/20, 20:49 - +91 99582 58217: https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi
+5/18/20, 20:49 - +91 99582 58217: https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-faq
+5/18/20, 20:53 - @mahesh23_s: Is there any free certification /training available for power bi during lockdown
+5/18/20, 20:54 - @mahesh23_s: Many vendors like microstrategy and tableau made their learning portal free
+5/18/20, 20:54 - @mahesh23_s: Pls let me know if there is something for power bi
+5/18/20, 20:57 - +91 99582 58217: Hi, Yeah there was couple of courses available on udemy earlier.
+But still you can buy them it's quite cheap. Or start with microsoft learn
+
+
+https://docs.microsoft.com/en-us/learn/
+5/18/20, 20:58 - @mahesh23_s: Okay thank u Ankit.
+
+I was looking for global certification. Is it free ?
+5/18/20, 20:58 - +91 99582 58217: Or you can buy one from Udemy.
+
+https://www.udemy.com/share/102sTgAEIbdllSRnQH/
+5/18/20, 20:59 - @mahesh23_s: Okay
+5/18/20, 21:00 - @mahesh23_s: Just wondering why Microsoft is so resilient in not making the platform free for this tough time.. other competitors made them free ..
+5/18/20, 21:00 - +91 99582 58217: Microsoft doesn't offer free certificate this is just for your learning, it will help you start with power bi. For more detailed learning search on microsoft power bi videos on you tube.
+5/18/20, 21:00 - @mahesh23_s: Got you
+5/18/20, 21:01 - +91 99582 58217: They offer contents rather that certifications. So you can see hell lot of content to learn but yeah no certification as far as I know
+5/18/20, 21:02 - @mahesh23_s: Okay .
+5/18/20, 21:02 - @mahesh23_s: Thanks Ankit 👍
+5/18/20, 21:02 - +91 99582 58217: Np 👍
+5/18/20, 21:36 - +971 52 647 8609: https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2
+5/18/20, 22:08 - @mahesh23_s: I have done this ..
+5/18/20, 22:08 - @mahesh23_s: Quite useful
+5/18/20, 22:38 - +971 52 647 8609: Yes good to start with.
+5/19/20, 23:10 - +91 99582 58217: This message was deleted
+5/20/20, 10:40 - +91 97914 49719: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr
+5/20/20, 13:41 - +91 97914 49719: https://youtu.be/JtuHIslowxk
+5/20/20, 20:12 - +91 99582 58217's security code changed. Tap for more info.
+5/20/20, 21:35 - +971 52 766 2655: https://www.linkedin.com/posts/divyakhanna31_looking-for-a-power-bi-developer-location-activity-6668854480903168000-jPVY
+5/20/20, 22:21 - +91 73563 45250: grand total for the measure becomes 0 when we use if condition in it.
+5/20/20, 22:21 - +91 73563 45250: i have created below measures..
+5/20/20, 22:22 - +91 73563 45250: StartDate = CALCULATE(min(‘DATE’[DATE]),ALLSELECTED(‘DATE’[DATE]))
+5/20/20, 22:22 - +91 73563 45250: OP = if(SELECTEDVALUE(‘DATE’[DATE]) = [StartDate], CALCULATE(sum(MEASUREMENTS[OPENING_BASE_VAL]),DATESBETWEEN(‘DATE’[DATE],[StartDate],[StartDate])),0)
+5/20/20, 22:22 - +91 73563 45250: <Media omitted>
+5/20/20, 23:32 - +91 73563 45250: its working by adding a summarize over it..
+5/20/20, 23:32 - +91 73563 45250: OP new=
+sumx(summarize( Date, Date[Date],"_1",[OP]),[_1])
+5/20/20, 23:38 - +91 72085 02608: I know this is a PBI group.. but anybody here knows Qlik ?? 😅
+5/20/20, 23:38 - +91 72085 02608: Need help with a code..
+5/21/20, 12:39 - +91 99582 58217: <Media omitted>
+5/21/20, 12:39 - +91 99582 58217: I've used this:
+
+Duration.TotalHours(Duration.From ( [END_DATE] - [START_DATE]))
+
+But it's not giving correct results.
+5/21/20, 12:40 - +91 97914 49719: There is a dax function called datediff
+5/21/20, 12:40 - +91 97914 49719: It will give the difference in days months and years
+5/21/20, 12:48 - +971 55 268 2892 joined using this group's invite link
+5/21/20, 12:53 - +91 99582 58217: Thanks Gowri
+5/21/20, 14:30 - +971 58 865 8161 joined using this group's invite link
+5/21/20, 22:54 - +91 97914 49719 added +971 52 365 0202
+5/21/20, 23:03 - +971 52 365 0202: Thanks for adding me
+5/22/20, 12:17 - +91 99582 58217's security code changed. Tap for more info.
+5/22/20, 12:53 - +91 99582 58217's security code changed. Tap for more info.
+5/23/20, 23:45 - +91 81477 14720: Does anyone know any  sources for good design ideas for dashboard
+5/23/20, 23:49 - +971 52 365 0202: Is it for POC?
+5/23/20, 23:49 - +91 99582 58217: https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery
+5/23/20, 23:51 - +91 81477 14720: No, my manager is so much into design etc
+5/23/20, 23:51 - +91 81477 14720: So
+5/23/20, 23:58 - +971 52 365 0202: Any one done any certifications on power bi recently
+5/24/20, 00:03 - +91 99582 58217: Depends what are you looking for basic or advance?
+5/24/20, 00:04 - +971 52 365 0202: Basic one
+5/24/20, 00:06 - +91 99582 58217: You can start with microsoft learn and though that is bit theoretical, it's really good for understand the concepts.
+5/24/20, 00:07 - +971 58 865 8161: check bootstrap css dashboards. They have ample of it. You can use this reference and apply same in ur power bi project
+5/24/20, 00:08 - +91 99582 58217: Or you can go for : Power BI - Data Analytics Essentials with Power BI by Ahmed Oyelowo
+
+https://www.udemy.com/share/100F3uAEIbdllSRnQH/?xref=E0IacVlVRX8JRREPAQwQE0IbSjMLQA%3D%3D
+5/24/20, 00:55 - +91 73563 45250: I did
+5/24/20, 12:46 - +971 54 460 2786 joined using this group's invite link
+5/24/20, 19:55 - +91 97914 49719 added +971 52 465 8112
+5/25/20, 12:40 - +91 73563 45250: when we have multiple report copies with same dataset in same workspace & if the any column change made in the dataset will reflect in all report copies?
+5/25/20, 12:44 - +971 52 365 0202: yes it will reflect...
+5/25/20, 12:58 - +91 73563 45250: i have made the changed to the actual report and published , but  changes not reflecting the copied reports...
+5/25/20, 13:00 - +971 52 365 0202: see if any refresh is not happening.. properly or not...once you published...or any cached.. if applicable....
+5/25/20, 13:00 - +91 73563 45250: its a direct query from ssas model...& data is refreshed in the original report...only the copied reports and not updating
+5/25/20, 13:07 - +971 54 460 2786: If you are making changes in the one report locally it will not reflect to any other report.. it will reflect only the current report
+5/25/20, 13:09 - +971 54 460 2786: I did reports same way using direct query and it used to reflect only the particular report it’s not reflected to any other copy
+5/25/20, 13:09 - +971 52 365 0202: He said like changes has done to the dataset
+5/25/20, 13:10 - +91 73563 45250: yes changes done only to the dataset level...
+5/25/20, 20:22 - +91 81477 14720: This message was deleted
+5/25/20, 20:24 - +91 81477 14720: <Media omitted>
+5/25/20, 20:47 - +91 99582 58217: Noo I don't think so there's such functionality available.. May be you can show a small table for that week numbers in the same report.
+5/25/20, 20:51 - +91 81477 14720: Okay
+5/25/20, 22:19 - +91 97914 49719's security code changed. Tap for more info.
+5/26/20, 13:37 - +971 52 600 8376: Hi All
+5/26/20, 13:38 - +971 52 600 8376: Can we export power Bi dashboard as a PDF from the report server?
+5/26/20, 13:39 - +971 52 600 8376: In Power BI desktop, there is an option to "Export as PDf" but I couldn't find similar option in Report Server
+5/26/20, 13:41 - +91 73563 45250: Its not yet available
+5/26/20, 13:42 - +91 98415 20234: In power BI webpage, it's available
+5/26/20, 13:43 - +91 98415 20234: Click report -- > file -- > Export to PDF
+5/26/20, 13:45 - +971 52 600 8376: But the dashboard is deployed in Report Server, not sure how to integrate to a Web page
+5/26/20, 13:45 - +971 52 600 8376: Okay! Thanks
+5/26/20, 13:53 - +971 52 465 8112: Yes it's not available on report server.
+5/26/20, 13:56 - +971 52 600 8376: Ok
+5/27/20, 14:05 - +91 99582 58217: I am attending Lunch and Learn Season 1 Finale: Episode 6 - The Power BI Pub Quiz!. Would you like to attend?
+https://www.linkedin.com/events/lunchandlearnseason1finale-episode6-thepowerbipubq
+5/27/20, 14:05 - +91 99582 58217: If anyone is interested
+5/27/20, 18:13 - +971 52 365 0202: This message was deleted
+5/27/20, 18:14 - +971 52 365 0202: Any one working for FAB account
+5/27/20, 18:20 - +971 52 365 0202: In this group
+5/27/20, 21:03 - +91 99582 58217: Hi All,
+I need to create a measure for a Amt which will show 20% of the amt if PTC pool is selected AND product HFC & MICRO-LAP is selected else it should show 100% NEA. 
+Any idea how to achieve this?
+5/27/20, 21:23 - +91 97914 49719: Try with if  else function
+5/27/20, 21:23 - +91 97914 49719: With selected value
+5/27/20, 21:27 - +971 50 846 8150: https://youtu.be/Mm-902ry-qU
+5/27/20, 21:37 - +91 73563 45250: when we share a power bi report with build permission. to users, is there any possibility that they can  alter the original dataset?
+5/27/20, 22:43 - @mahesh23_s: in case if anyone is in Dubai and want to apply for power bi role 
+
+pls talk to 
+
+
+S. Ram Kumar
+
+Mobile phone:+971 - 523224205
+5/27/20, 22:48 - +971 52 365 0202: 👍👍
+5/28/20, 17:31 - +91 97914 49719 added +91 82973 34445
+5/29/20, 08:35 - +91 81477 14720: The new incremental refresh is it possible for excel sources in sharepoint
+5/29/20, 10:00 - +91 98415 20234: Nope... It's not possible for excel files / text files / csv files
+5/29/20, 14:20 - @mahesh23_s: hi guys. can someone guide me how to get global certification for power bi?
+5/29/20, 14:21 - @mahesh23_s: https://www.microsoft.com/en-us/learning/exam-70-778.aspx
+5/29/20, 14:21 - @mahesh23_s: this one is about to retire next year
+5/29/20, 14:22 - @mahesh23_s: https://docs.microsoft.com/en-us/learn/certifications/exams/da-100
+5/29/20, 14:40 - +91 99582 58217: This is beta version and not available in India.
+5/29/20, 14:41 - +91 82973 34445: You can still go for 70-778
+5/29/20, 14:42 - +91 99582 58217: This is retiring in Jan I think but if you clear that let's say in December then it would be valid
+5/29/20, 14:55 - @mahesh23_s: okay
+5/29/20, 14:56 - @mahesh23_s: thank u guys.
+5/29/20, 15:52 - +91 88852 33238: Guys anyone faced issue like below:
+When we export data from power bi to csv negative numbers are appearing with leading apostrophe
+5/29/20, 15:53 - +91 88852 33238: Requirement is not to change to field data type to currency or use brackets to show neg numbers
+5/29/20, 16:27 - +91 97914 49719: Are you opening the exported file in excel or in notepad ?!
+5/29/20, 16:28 - +91 88852 33238: Its exported as csv
+5/29/20, 16:29 - +91 82973 34445: Can you please share the test data here then probably can help you
+5/29/20, 16:54 - +91 88852 33238: <Media omitted>

@@ -1,0 +1,214 @@
+,Date,Time,Name,Content,DateTime,Day of Week,Letter_Count,Word_Count,Hour
+0,5/16/20,14:41, +971 52 766 2655, Thanks for adding me the group @919791449719.  Awesome initiative 👏👏😊,2020-05-16 14:41:00,Saturday,70,12,14
+1,5/16/20,14:41, +91 97914 49719, Follow this link to join my WhatsApp group,2020-05-16 14:41:00,Saturday,43,9,14
+2,5/16/20,14:42, +91 97914 49719, You are welcome👍🏻,2020-05-16 14:42:00,Saturday,18,4,14
+3,5/16/20,14:43, +91 97914 49719, If you want to add any of your friends kindly use the whatsapp group link.,2020-05-16 14:43:00,Saturday,75,16,14
+4,5/16/20,14:43, +971 52 766 2655, Surely,2020-05-16 14:43:00,Saturday,7,2,14
+5,5/16/20,14:43, +91 97914 49719, You are welcome bro👍🏻,2020-05-16 14:43:00,Saturday,22,5,14
+6,5/16/20,14:44, +91 88852 33238, Lets make this first ever great platform to collaborate and share Power BI knowledge 🙂☺️,2020-05-16 14:44:00,Saturday,89,16,14
+7,5/16/20,14:49, +971 52 600 8376, Thanks Gowri😊,2020-05-16 14:49:00,Saturday,14,3,14
+8,5/16/20,14:52, +91 97914 49719, 🙏🏻🙏🏻,2020-05-16 14:52:00,Saturday,5,2,14
+9,5/16/20,15:19, +971 50 846 8150, Hi I had a doubt.Can we create something like a dynamic button power Navigation,2020-05-16 15:19:00,Saturday,80,15,15
+10,5/16/20,15:20, +971 50 846 8150, Based on a value can we we navigate the button to a particular page,2020-05-16 15:20:00,Saturday,68,15,15
+11,5/16/20,15:39, +971 52 647 8609, Hi Thanks Gowri for connecting with all PBI experts.,2020-05-16 15:39:00,Saturday,53,10,15
+12,5/16/20,15:46, +971 52 647 8609," Hi All, Incremental Refresh Power BI , Any 1 accomplished the newly released feature in power bi pro account since Feb.",2020-05-16 15:46:00,Saturday,120,22,15
+13,5/16/20,15:47, +971 52 647 8609," I have test env. at home , sql server data source,  supports native query.refresh only last day data and storing 10 years data.",2020-05-16 15:47:00,Saturday,128,25,15
+14,5/16/20,15:48, +971 52 647 8609, But refresh times are same when I schedule a refresh 12  minutes NO CHANGE IN POWER BI SERVICE,2020-05-16 15:48:00,Saturday,95,20,15
+15,5/16/20,15:48, +91 73563 45250, i am planning to implement in the existing datasets....does it requires query parameters defined at power query level?,2020-05-16 15:48:00,Saturday,119,19,15
+16,5/16/20,15:50, +971 52 647 8609, Yes RangeStart RangeEnd two reserved case sensitive parameters are required to configure incremental refresh policy,2020-05-16 15:50:00,Saturday,116,16,15
+17,5/16/20,15:50, +91 73563 45250, ok....,2020-05-16 15:50:00,Saturday,7,2,15
+18,5/16/20,15:50, +91 97914 49719, https,2020-05-16 15:50:00,Saturday,6,2,15
+19,5/16/20,15:54, +971 50 846 8150, this is possible on embedded version only .is there an option for pro version,2020-05-16 15:54:00,Saturday,78,15,15
+20,5/16/20,15:58, +971 52 766 2655, Using bookmarks its possible,2020-05-16 15:58:00,Saturday,29,5,15
+21,5/16/20,15:59, +971 50 846 8150, I shall tell you the requirement,2020-05-16 15:59:00,Saturday,33,7,15
+22,5/16/20,15:59, +971 50 846 8150, it is like I have 4 department,2020-05-16 15:59:00,Saturday,31,8,15
+23,5/16/20,15:59, +971 50 846 8150, and on clicking it should go to that report for the particular department page report,2020-05-16 15:59:00,Saturday,86,16,15
+24,5/16/20,15:59, +971 50 846 8150, and the reason for it is like access level,2020-05-16 15:59:00,Saturday,43,10,15
+25,5/16/20,16:00, +971 50 846 8150, for eg one employee has full access,2020-05-16 16:00:00,Saturday,36,8,16
+26,5/16/20,16:00, +971 50 846 8150, other has only dept wise access,2020-05-16 16:00:00,Saturday,32,7,16
+27,5/16/20,16:00, +971 52 766 2655, This one you talking about managing roles,2020-05-16 16:00:00,Saturday,42,8,16
+28,5/16/20,16:00, +971 50 846 8150, RLS can be used only used when in that reporting of particular page,2020-05-16 16:00:00,Saturday,68,14,16
+29,5/16/20,16:00, +971 52 766 2655, Yes,2020-05-16 16:00:00,Saturday,4,2,16
+30,5/16/20,16:01, +971 50 846 8150, But main page has no data .Just navigating using button,2020-05-16 16:01:00,Saturday,56,11,16
+31,5/16/20,16:01, +971 50 846 8150, to the respective dept wise reporting,2020-05-16 16:01:00,Saturday,38,7,16
+32,5/16/20,16:01, +971 50 846 8150, so main page is accessible for everyone,2020-05-16 16:01:00,Saturday,40,8,16
+33,5/16/20,16:17, +971 52 647 8609," If at main page ppl have only access to their link or page, then they dont need to see these other options.",2020-05-16 16:17:00,Saturday,108,23,16
+34,5/16/20,16:18, +971 50 846 8150, yes,2020-05-16 16:18:00,Saturday,4,2,16
+35,5/16/20,16:19, +971 50 846 8150, so thought of creating a button that only shows the particular dept,2020-05-16 16:19:00,Saturday,68,13,16
+36,5/16/20,16:19, +971 50 846 8150, and then navigating to the dept report based on the button value,2020-05-16 16:19:00,Saturday,65,13,16
+37,5/16/20,16:22, +971 52 647 8609," You can create a 3 different power bi reports, filter the dept wise data in power query itself (no need loading everything for 1 dept)and can also  hide the table query filtered in report view.",2020-05-16 16:22:00,Saturday,194,37,16
+38,5/16/20,16:22, +971 50 846 8150, yea I had that in mind,2020-05-16 16:22:00,Saturday,23,7,16
+39,5/16/20,16:22, +971 50 846 8150, but management doesn't want it,2020-05-16 16:22:00,Saturday,31,6,16
+40,5/16/20,16:22, +971 50 846 8150, requirement is all in s single report,2020-05-16 16:22:00,Saturday,38,8,16
+41,5/16/20,16:23, +971 50 846 8150, and restrict access,2020-05-16 16:23:00,Saturday,20,4,16
+42,5/16/20,16:23, +971 50 846 8150, so plan B else is main page accessible for everyone,2020-05-16 16:23:00,Saturday,52,11,16
+43,5/16/20,16:23, +971 50 846 8150, put n no of button based on no of dept,2020-05-16 16:23:00,Saturday,39,11,16
+44,5/16/20,16:23, +971 50 846 8150, and when a person from particular dep accesses rest other button shows no data based on RLS,2020-05-16 16:23:00,Saturday,92,18,16
+45,5/16/20,16:23, +971 50 846 8150, but it doesnt give neat look,2020-05-16 16:23:00,Saturday,29,7,16
+46,5/16/20,16:24, +971 50 846 8150, so was wondering if this option is available,2020-05-16 16:24:00,Saturday,45,9,16
+47,5/16/20,17:49, +91 99582 58217, This is the best option otherwise whoever will have the report access can select your bookmark and would be able to see other departments data.. Rls is the only option else 3 different reports,2020-05-16 17:49:00,Saturday,193,35,17
+48,5/16/20,19:29, +91 97914 49719, <Media omitted>,2020-05-16 19:29:00,Saturday,16,3,19
+49,5/16/20,21:53, +91 99582 58217," Hi all i need a bit of advice around my model. . I have mom 2 different data table and I want to have relationship between them. Though if create a relationship it would be many to many between the ""ids"" But when I'm creating a measure I'm not getting desired results.. . I can share the pbix if anyone can share their email.. . Thanks",2020-05-16 21:53:00,Saturday,336,67,21
+50,5/16/20,21:59, +91 88852 33238, Why dont you merge both tables in power query?,2020-05-16 21:59:00,Saturday,47,10,21
+51,5/16/20,22:06, +91 99582 58217, Merging is an option but as I'm focusing to learn new scenarios in dax so want to achieve it that way by creating relationship,2020-05-16 22:06:00,Saturday,127,25,22
+52,5/16/20,22:13, +91 99582 58217, And secondly merging would not give me data mom basis it would be merging by id and would be sharing the latest values.. Whereas I want to see current month status as well and last 6 months status as well..,2020-05-16 22:13:00,Saturday,207,41,22
+53,5/16/20,22:20, +91 72085 02608, Maybe creating a distinct of the ID table to act as a link table.. and then creating a relationship..,2020-05-16 22:20:00,Saturday,102,20,22
+54,5/16/20,22:21, +91 81477 14720, Yea,2020-05-16 22:21:00,Saturday,4,2,22
+55,5/16/20,22:21, +91 81477 14720, Create a bridge table,2020-05-16 22:21:00,Saturday,22,5,22
+56,5/16/20,22:21, +91 81477 14720, If you create many to many relationship,2020-05-16 22:21:00,Saturday,40,8,22
+57,5/16/20,22:22, +91 81477 14720, Sometimes u get undesirable results,2020-05-16 22:22:00,Saturday,36,6,22
+58,5/16/20,22:26, +971 50 846 8150, yes they say many to many is not a good choice to make even in dax.it can get messy,2020-05-16 22:26:00,Saturday,84,20,22
+59,5/16/20,22:36, +91 99582 58217, Tried that as well still there is something missing I believe.. I'll check it again,2020-05-16 22:36:00,Saturday,84,16,22
+60,5/17/20,13:21, +91 98415 20234, Thank u gowri,2020-05-17 13:21:00,Sunday,14,4,13
+61,5/17/20,13:21, +91 98415 20234, Does anyone scheduled power BI data refresh using power shell?,2020-05-17 13:21:00,Sunday,63,11,13
+62,5/17/20,13:21, +91 98415 20234, I need one urgent help,2020-05-17 13:21:00,Sunday,23,6,13
+63,5/17/20,18:28, +971 52 647 8609," Hi, What can be a posdible solution to get sql data in viewable form  and send emails to 100 different customers automatically after generating invoice in the form? Any ideas 😊",2020-05-17 18:28:00,Sunday,177,33,18
+64,5/17/20,18:29, +971 50 846 8150, is it possible through power apps,2020-05-17 18:29:00,Sunday,34,7,18
+65,5/17/20,18:29, +971 50 846 8150, where you get the data into a data table,2020-05-17 18:29:00,Sunday,41,10,18
+66,5/17/20,18:30, +971 52 647 8609, Sql server,2020-05-17 18:30:00,Sunday,11,3,18
+67,5/17/20,18:31, +971 52 647 8609, I know power apps is very good choice,2020-05-17 18:31:00,Sunday,38,9,18
+68,5/17/20,18:31, +971 52 647 8609, N only I know also ...just trying to explore other options if any as well,2020-05-17 18:31:00,Sunday,74,16,18
+69,5/17/20,18:34, +91 88852 33238, Go for pagonated reports with email subscriptions,2020-05-17 18:34:00,Sunday,50,8,18
+70,5/17/20,18:44, +971 50 846 8150, yea paginated report next option,2020-05-17 18:44:00,Sunday,33,6,18
+71,5/17/20,19:13, +971 52 647 8609, What is paginated reports?,2020-05-17 19:13:00,Sunday,27,5,19
+72,5/17/20,19:13, +971 52 647 8609, How to get more info abt it,2020-05-17 19:13:00,Sunday,28,8,19
+73,5/17/20,19:13, +91 88852 33238, It is just an traditional ssrs report,2020-05-17 19:13:00,Sunday,38,8,19
+74,5/17/20,19:14, +971 52 647 8609, Ok in visual studio,2020-05-17 19:14:00,Sunday,20,5,19
+75,5/17/20,19:14, +971 52 647 8609, ?,2020-05-17 19:14:00,Sunday,2,2,19
+76,5/17/20,19:15, +91 97914 49719, You can create reports in ssrs and deploy it in power bi report server,2020-05-17 19:15:00,Sunday,71,15,19
+77,5/17/20,19:16, +971 52 647 8609, They can be available in power bi service also ?,2020-05-17 19:16:00,Sunday,49,11,19
+78,5/17/20,19:31, +91 88852 33238, No u can see them in power bi report server/on premises . It is best for it for form/ invoice kind of reports,2020-05-17 19:31:00,Sunday,110,24,19
+79,5/17/20,19:34, +971 52 647 8609, Visual studio online  I can use ? To create repory,2020-05-17 19:34:00,Sunday,51,12,19
+80,5/17/20,19:35, +91 88852 33238," No u can download report builder from power bi report server or else if you have BIDS in visual studio in local, u can do that.",2020-05-17 19:35:00,Sunday,128,27,19
+81,5/17/20,19:37, +971 52 647 8609, <Media omitted>,2020-05-17 19:37:00,Sunday,16,3,19
+82,5/17/20,19:37, +971 52 647 8609, PRB from app right?,2020-05-17 19:37:00,Sunday,20,5,19
+83,5/17/20,20:14, +971 52 647 8609, Thank you very much I have stared this way PRB from app seems straightforward,2020-05-17 20:14:00,Sunday,78,15,20
+84,5/17/20,20:55, +91 73563 45250," hi , i have multiple slicers in a power bi report (came from differnt tables). need to make one slicer values change depends on another slicer ( like cascading parameters in ssrs). what modelling change we can do to achieve this?",2020-05-17 20:55:00,Sunday,230,42,20
+85,5/17/20,20:55, +91 73563 45250, i have tried edit interactions...but doesn't seems to be working,2020-05-17 20:55:00,Sunday,65,11,20
+86,5/17/20,21:32, +91 72085 02608, Did you try using isfiltered and selected value?? Using if condition maybe you can get it change values in the other slicer..,2020-05-17 21:32:00,Sunday,126,23,21
+87,5/17/20,21:57, +91 73563 45250, thanks will try...,2020-05-17 21:57:00,Sunday,19,4,21
+88,5/17/20,22:03, +91 73563 45250, how to configure a measure value based on the filter chosen by the user .  dashboard currently i am working has opening base and closing base measures.  opening base should be show value only for the minimum date range chosen by the user in the date slicer. & closing base should be show value only for the minimum date range chosen by the user in the date slicer.   for e.g ,2020-05-17 22:03:00,Sunday,376,76,22
+89,5/17/20,22:03, +91 73563 45250, i tried creating below measures...,2020-05-17 22:03:00,Sunday,35,6,22
+90,5/17/20,22:03, +91 73563 45250," EnDdate = CALCULATE(max('DATE'[DATE]),ALLSELECTED('DATE'[DATE])) . StartDate = CALCULATE(min('DATE'[DATE]),ALLSELECTED('DATE'[DATE])) . openingbase = CALCULATE(sum(MEASUREMENTS[OPENING_BASE]),FILTER('DATE','DATE'[DATE]=[StartDate]))",2020-05-17 22:03:00,Sunday,233,12,22
+91,5/17/20,22:04, +91 73563 45250, but its not working...,2020-05-17 22:04:00,Sunday,23,5,22
+92,5/17/20,23:22, +91 88852 33238, I guess for this you should use selected value measure based on slicer change,2020-05-17 23:22:00,Sunday,78,15,23
+93,5/18/20,06:54, +971 52 647 8609," Hi, report builder from app service is generally available with email subscription facility? Let me know please thanks",2020-05-18 06:54:00,Monday,119,19,06
+94,5/18/20,11:25, +91 73563 45250, yes i tried....but its not working,2020-05-18 11:25:00,Monday,35,7,11
+95,5/18/20,11:25, +91 73563 45250, https,2020-05-18 11:25:00,Monday,6,2,11
+96,5/18/20,11:53, +91 81477 14720, <Media omitted>,2020-05-18 11:53:00,Monday,16,3,11
+97,5/18/20,11:56, +91 72085 02608, Haven't used any.. Organizations don't allow use of third party visuals..,2020-05-18 11:56:00,Monday,74,12,11
+98,5/18/20,11:57, +91 81477 14720, There are visuals certified by Microsoft,2020-05-18 11:57:00,Monday,41,7,11
+99,5/18/20,11:57, +91 72085 02608, Yes..,2020-05-18 11:57:00,Monday,6,2,11
+100,5/18/20,12:30, +91 99582 58217, Mostly.. Whichever visual has blue tick against it.. . Best slicers is in built but you can look at play axis that's my favorite but it would look good in desktop file only not apt for mail subscription...or just search filter in app source and you can find few more options as well,2020-05-18 12:30:00,Monday,283,54,12
+101,5/18/20,12:30, +91 81477 14720, Play axis?,2020-05-18 12:30:00,Monday,11,3,12
+102,5/18/20,12:32, +91 99582 58217, Yes it would give you a play button and would be like a gif and your data would be  changing automatically  basis on your model,2020-05-18 12:32:00,Monday,128,28,12
+103,5/18/20,12:33, +91 81477 14720, Where is it,2020-05-18 12:33:00,Monday,12,4,12
+104,5/18/20,12:35, +91 99582 58217, Search it in app source,2020-05-18 12:35:00,Monday,24,6,12
+105,5/18/20,12:36, +91 81477 14720, Ok,2020-05-18 12:36:00,Monday,3,2,12
+106,5/18/20,12:43, +91 81477 14720, Will it keep filtering automatically?,2020-05-18 12:43:00,Monday,38,6,12
+107,5/18/20,16:28, +971 52 647 8609," Try smart pro license dynamic filter, very good even when u want to make sense of your data",2020-05-18 16:28:00,Monday,92,19,16
+108,5/18/20,20:33, +971 52 647 8609," Hi , Paginated report builder reports can only be deployed in premium app workspace? email subscription? Give me more details please?",2020-05-18 20:33:00,Monday,134,22,20
+109,5/18/20,20:49, +91 99582 58217, Hi Please go through this for better clarity.,2020-05-18 20:49:00,Monday,46,9,20
+110,5/18/20,20:49, +91 99582 58217, https,2020-05-18 20:49:00,Monday,6,2,20
+111,5/18/20,20:49, +91 99582 58217, https,2020-05-18 20:49:00,Monday,6,2,20
+112,5/18/20,20:53, @mahesh23_s, Is there any free certification /training available for power bi during lockdown,2020-05-18 20:53:00,Monday,81,13,20
+113,5/18/20,20:54, @mahesh23_s, Many vendors like microstrategy and tableau made their learning portal free,2020-05-18 20:54:00,Monday,76,12,20
+114,5/18/20,20:54, @mahesh23_s, Pls let me know if there is something for power bi,2020-05-18 20:54:00,Monday,51,12,20
+115,5/18/20,20:57, +91 99582 58217," Hi, Yeah there was couple of courses available on udemy earlier.. But still you can buy them it's quite cheap. Or start with microsoft learn. https",2020-05-18 20:57:00,Monday,148,27,20
+116,5/18/20,20:58, @mahesh23_s, Okay thank u Ankit.. I was looking for global certification. Is it free ?,2020-05-18 20:58:00,Monday,74,15,20
+117,5/18/20,20:58, +91 99582 58217, Or you can buy one from Udemy.. https,2020-05-18 20:58:00,Monday,38,9,20
+118,5/18/20,20:59, @mahesh23_s, Okay,2020-05-18 20:59:00,Monday,5,2,20
+119,5/18/20,21:00, @mahesh23_s, Just wondering why Microsoft is so resilient in not making the platform free for this tough time.. other competitors made them free ..,2020-05-18 21:00:00,Monday,135,24,21
+120,5/18/20,21:00, +91 99582 58217," Microsoft doesn't offer free certificate this is just for your learning, it will help you start with power bi. For more detailed learning search on microsoft power bi videos on you tube.",2020-05-18 21:00:00,Monday,187,33,21
+121,5/18/20,21:00, @mahesh23_s, Got you,2020-05-18 21:00:00,Monday,8,3,21
+122,5/18/20,21:01, +91 99582 58217, They offer contents rather that certifications. So you can see hell lot of content to learn but yeah no certification as far as I know,2020-05-18 21:01:00,Monday,135,26,21
+123,5/18/20,21:02, @mahesh23_s, Okay .,2020-05-18 21:02:00,Monday,7,3,21
+124,5/18/20,21:02, @mahesh23_s, Thanks Ankit 👍,2020-05-18 21:02:00,Monday,15,4,21
+125,5/18/20,21:02, +91 99582 58217, Np 👍,2020-05-18 21:02:00,Monday,5,3,21
+126,5/18/20,21:36, +971 52 647 8609, https,2020-05-18 21:36:00,Monday,6,2,21
+127,5/18/20,22:08, @mahesh23_s, I have done this ..,2020-05-18 22:08:00,Monday,20,6,22
+128,5/18/20,22:08, @mahesh23_s, Quite useful,2020-05-18 22:08:00,Monday,13,3,22
+129,5/18/20,22:38, +971 52 647 8609, Yes good to start with.,2020-05-18 22:38:00,Monday,24,6,22
+130,5/19/20,23:10, +91 99582 58217, This message was deleted,2020-05-19 23:10:00,Tuesday,25,5,23
+131,5/20/20,10:40, +91 97914 49719, https,2020-05-20 10:40:00,Wednesday,6,2,10
+132,5/20/20,13:41, +91 97914 49719, https,2020-05-20 13:41:00,Wednesday,6,2,13
+133,5/20/20,21:35, +971 52 766 2655, https,2020-05-20 21:35:00,Wednesday,6,2,21
+134,5/20/20,22:21, +91 73563 45250, grand total for the measure becomes 0 when we use if condition in it.,2020-05-20 22:21:00,Wednesday,70,15,22
+135,5/20/20,22:21, +91 73563 45250, i have created below measures..,2020-05-20 22:21:00,Wednesday,32,6,22
+136,5/20/20,22:22, +91 73563 45250," StartDate = CALCULATE(min(‘DATE’[DATE]),ALLSELECTED(‘DATE’[DATE]))",2020-05-20 22:22:00,Wednesday,67,4,22
+137,5/20/20,22:22, +91 73563 45250," OP = if(SELECTEDVALUE(‘DATE’[DATE]) = [StartDate], CALCULATE(sum(MEASUREMENTS[OPENING_BASE_VAL]),DATESBETWEEN(‘DATE’[DATE],[StartDate],[StartDate])),0)",2020-05-20 22:22:00,Wednesday,152,7,22
+138,5/20/20,22:22, +91 73563 45250, <Media omitted>,2020-05-20 22:22:00,Wednesday,16,3,22
+139,5/20/20,23:32, +91 73563 45250, its working by adding a summarize over it..,2020-05-20 23:32:00,Wednesday,44,9,23
+140,5/20/20,23:32, +91 73563 45250," OP new=. sumx(summarize( Date, Date[Date],""_1"",[OP]),[_1])",2020-05-20 23:32:00,Wednesday,59,6,23
+141,5/20/20,23:38, +91 72085 02608, I know this is a PBI group.. but anybody here knows Qlik ?? 😅,2020-05-20 23:38:00,Wednesday,62,15,23
+142,5/20/20,23:38, +91 72085 02608, Need help with a code..,2020-05-20 23:38:00,Wednesday,24,6,23
+143,5/21/20,12:39, +91 99582 58217, <Media omitted>,2020-05-21 12:39:00,Thursday,16,3,12
+144,5/21/20,12:39, +91 99582 58217, I've used this,2020-05-21 12:39:00,Thursday,15,4,12
+145,5/21/20,12:40, +91 97914 49719, There is a dax function called datediff,2020-05-21 12:40:00,Thursday,40,8,12
+146,5/21/20,12:40, +91 97914 49719, It will give the difference in days months and years,2020-05-21 12:40:00,Thursday,53,11,12
+147,5/21/20,12:53, +91 99582 58217, Thanks Gowri,2020-05-21 12:53:00,Thursday,13,3,12
+148,5/21/20,23:03, +971 52 365 0202, Thanks for adding me,2020-05-21 23:03:00,Thursday,21,5,23
+149,5/23/20,23:45, +91 81477 14720, Does anyone know any  sources for good design ideas for dashboard,2020-05-23 23:45:00,Saturday,66,13,23
+150,5/23/20,23:49, +971 52 365 0202, Is it for POC?,2020-05-23 23:49:00,Saturday,15,5,23
+151,5/23/20,23:49, +91 99582 58217, https,2020-05-23 23:49:00,Saturday,6,2,23
+152,5/23/20,23:51, +91 81477 14720," No, my manager is so much into design etc",2020-05-23 23:51:00,Saturday,42,10,23
+153,5/23/20,23:51, +91 81477 14720, So,2020-05-23 23:51:00,Saturday,3,2,23
+154,5/23/20,23:58, +971 52 365 0202, Any one done any certifications on power bi recently,2020-05-23 23:58:00,Saturday,53,10,23
+155,5/24/20,00:03, +91 99582 58217, Depends what are you looking for basic or advance?,2020-05-24 00:03:00,Sunday,51,10,00
+156,5/24/20,00:04, +971 52 365 0202, Basic one,2020-05-24 00:04:00,Sunday,10,3,00
+157,5/24/20,00:06, +91 99582 58217," You can start with microsoft learn and though that is bit theoretical, it's really good for understand the concepts.",2020-05-24 00:06:00,Sunday,117,20,00
+158,5/24/20,00:07, +971 58 865 8161, check bootstrap css dashboards. They have ample of it. You can use this reference and apply same in ur power bi project,2020-05-24 00:07:00,Sunday,120,23,00
+159,5/24/20,00:08, +91 99582 58217, Or you can go for ,2020-05-24 00:08:00,Sunday,19,7,00
+160,5/24/20,00:55, +91 73563 45250, I did,2020-05-24 00:55:00,Sunday,6,3,00
+161,5/25/20,12:40, +91 73563 45250, when we have multiple report copies with same dataset in same workspace & if the any column change made in the dataset will reflect in all report copies?,2020-05-25 12:40:00,Monday,154,29,12
+162,5/25/20,12:44, +971 52 365 0202, yes it will reflect...,2020-05-25 12:44:00,Monday,23,5,12
+163,5/25/20,12:58, +91 73563 45250," i have made the changed to the actual report and published , but  changes not reflecting the copied reports...",2020-05-25 12:58:00,Monday,111,21,12
+164,5/25/20,13:00, +971 52 365 0202, see if any refresh is not happening.. properly or not...once you published...or any cached.. if applicable....,2020-05-25 13:00:00,Monday,111,17,13
+165,5/25/20,13:00, +91 73563 45250, its a direct query from ssas model...& data is refreshed in the original report...only the copied reports and not updating,2020-05-25 13:00:00,Monday,123,21,13
+166,5/25/20,13:07, +971 54 460 2786, If you are making changes in the one report locally it will not reflect to any other report.. it will reflect only the current report,2020-05-25 13:07:00,Monday,134,26,13
+167,5/25/20,13:09, +971 54 460 2786, I did reports same way using direct query and it used to reflect only the particular report it’s not reflected to any other copy,2020-05-25 13:09:00,Monday,129,25,13
+168,5/25/20,13:09, +971 52 365 0202, He said like changes has done to the dataset,2020-05-25 13:09:00,Monday,45,10,13
+169,5/25/20,13:10, +91 73563 45250, yes changes done only to the dataset level...,2020-05-25 13:10:00,Monday,46,9,13
+170,5/25/20,20:22, +91 81477 14720, This message was deleted,2020-05-25 20:22:00,Monday,25,5,20
+171,5/25/20,20:24, +91 81477 14720, <Media omitted>,2020-05-25 20:24:00,Monday,16,3,20
+172,5/25/20,20:47, +91 99582 58217, Noo I don't think so there's such functionality available.. May be you can show a small table for that week numbers in the same report.,2020-05-25 20:47:00,Monday,136,26,20
+173,5/25/20,20:51, +91 81477 14720, Okay,2020-05-25 20:51:00,Monday,5,2,20
+174,5/26/20,13:37, +971 52 600 8376, Hi All,2020-05-26 13:37:00,Tuesday,7,3,13
+175,5/26/20,13:38, +971 52 600 8376, Can we export power Bi dashboard as a PDF from the report server?,2020-05-26 13:38:00,Tuesday,66,14,13
+176,5/26/20,13:39, +971 52 600 8376," In Power BI desktop, there is an option to ""Export as PDf"" but I couldn't find similar option in Report Server",2020-05-26 13:39:00,Tuesday,111,22,13
+177,5/26/20,13:41, +91 73563 45250, Its not yet available,2020-05-26 13:41:00,Tuesday,22,5,13
+178,5/26/20,13:42, +91 98415 20234," In power BI webpage, it's available",2020-05-26 13:42:00,Tuesday,36,7,13
+179,5/26/20,13:43, +91 98415 20234, Click report -- > file -- > Export to PDF,2020-05-26 13:43:00,Tuesday,42,11,13
+180,5/26/20,13:45, +971 52 600 8376," But the dashboard is deployed in Report Server, not sure how to integrate to a Web page",2020-05-26 13:45:00,Tuesday,88,18,13
+181,5/26/20,13:45, +971 52 600 8376, Okay! Thanks,2020-05-26 13:45:00,Tuesday,13,3,13
+182,5/26/20,13:53, +971 52 465 8112, Yes it's not available on report server.,2020-05-26 13:53:00,Tuesday,41,8,13
+183,5/26/20,13:56, +971 52 600 8376, Ok,2020-05-26 13:56:00,Tuesday,3,2,13
+184,5/27/20,14:05, +91 99582 58217, I am attending Lunch and Learn Season 1 Finale,2020-05-27 14:05:00,Wednesday,47,10,14
+185,5/27/20,14:05, +91 99582 58217, If anyone is interested,2020-05-27 14:05:00,Wednesday,24,5,14
+186,5/27/20,18:13, +971 52 365 0202, This message was deleted,2020-05-27 18:13:00,Wednesday,25,5,18
+187,5/27/20,18:14, +971 52 365 0202, Any one working for FAB account,2020-05-27 18:14:00,Wednesday,32,7,18
+188,5/27/20,18:20, +971 52 365 0202, In this group,2020-05-27 18:20:00,Wednesday,14,4,18
+189,5/27/20,21:03, +91 99582 58217," Hi All,. I need to create a measure for a Amt which will show 20% of the amt if PTC pool is selected AND product HFC & MICRO-LAP is selected else it should show 100% NEA. . Any idea how to achieve this?",2020-05-27 21:03:00,Wednesday,203,44,21
+190,5/27/20,21:23, +91 97914 49719, Try with if  else function,2020-05-27 21:23:00,Wednesday,27,7,21
+191,5/27/20,21:23, +91 97914 49719, With selected value,2020-05-27 21:23:00,Wednesday,20,4,21
+192,5/27/20,21:27, +971 50 846 8150, https,2020-05-27 21:27:00,Wednesday,6,2,21
+193,5/27/20,21:37, +91 73563 45250," when we share a power bi report with build permission. to users, is there any possibility that they can  alter the original dataset?",2020-05-27 21:37:00,Wednesday,133,25,21
+194,5/27/20,22:43, @mahesh23_s, in case if anyone is in Dubai and want to apply for power bi role . pls talk to . S. Ram Kumar. Mobile phone,2020-05-27 22:43:00,Wednesday,109,26,22
+195,5/27/20,22:48, +971 52 365 0202, 👍👍,2020-05-27 22:48:00,Wednesday,3,2,22
+196,5/29/20,08:35, +91 81477 14720, The new incremental refresh is it possible for excel sources in sharepoint,2020-05-29 08:35:00,Friday,75,13,08
+197,5/29/20,10:00, +91 98415 20234, Nope... It's not possible for excel files / text files / csv files,2020-05-29 10:00:00,Friday,67,14,10
+198,5/29/20,14:20, @mahesh23_s, hi guys. can someone guide me how to get global certification for power bi?,2020-05-29 14:20:00,Friday,76,15,14
+199,5/29/20,14:21, @mahesh23_s, https,2020-05-29 14:21:00,Friday,6,2,14
+200,5/29/20,14:21, @mahesh23_s, this one is about to retire next year,2020-05-29 14:21:00,Friday,38,9,14
+201,5/29/20,14:22, @mahesh23_s, https,2020-05-29 14:22:00,Friday,6,2,14
+202,5/29/20,14:40, +91 99582 58217, This is beta version and not available in India.,2020-05-29 14:40:00,Friday,49,10,14
+203,5/29/20,14:41, +91 82973 34445, You can still go for 70-778,2020-05-29 14:41:00,Friday,28,7,14
+204,5/29/20,14:42, +91 99582 58217, This is retiring in Jan I think but if you clear that let's say in December then it would be valid,2020-05-29 14:42:00,Friday,99,22,14
+205,5/29/20,14:55, @mahesh23_s, okay,2020-05-29 14:55:00,Friday,5,2,14
+206,5/29/20,14:56, @mahesh23_s, thank u guys.,2020-05-29 14:56:00,Friday,14,4,14
+207,5/29/20,15:52, +91 88852 33238, Guys anyone faced issue like below,2020-05-29 15:52:00,Friday,35,7,15
+208,5/29/20,15:53, +91 88852 33238, Requirement is not to change to field data type to currency or use brackets to show neg numbers,2020-05-29 15:53:00,Friday,96,19,15
+209,5/29/20,16:27, +91 97914 49719, Are you opening the exported file in excel or in notepad ?!,2020-05-29 16:27:00,Friday,60,13,16
+210,5/29/20,16:28, +91 88852 33238, Its exported as csv,2020-05-29 16:28:00,Friday,20,5,16
+211,5/29/20,16:29, +91 82973 34445, Can you please share the test data here then probably can help you,2020-05-29 16:29:00,Friday,67,14,16
+212,5/29/20,16:54, +91 88852 33238, <Media omitted>,2020-05-29 16:54:00,Friday,16,3,16
